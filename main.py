@@ -1,1 +1,1 @@
-print("test")
+print("wot is jor ejdz")
