@@ -1,5 +1,0 @@
-print("wot is jor ejdz")
-print("hello world")
-print("This is a new print function")
-print("maryna xxxx")
-print("Added another new print statement")
